@@ -13,7 +13,8 @@ public class App {
         }
 
         System.out.println("Längden av fältet "+ fält1.length);
-        
+    
+        // uppg 1 klar
 
     }
 }
